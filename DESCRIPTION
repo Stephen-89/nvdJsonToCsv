@@ -1,0 +1,10 @@
+Package: nvdJsonToCsv
+Type: Package
+Title: Nvd Feed Json To Csv
+Version: 0.1.0
+Author: Stephen H.
+Maintainer: The package maintainer <stephenjhoey@outlook.com>
+Description: This package provides a function to download json files from NVD feeds and convert to a csv file from the inputted (e.g. 2020) year to the current year.
+License: MIT
+Encoding: UTF-8
+LazyData: true
