@@ -1,3 +1,5 @@
+library(rjson)
+
 download_nvd_json_convert_cve <- function(start_year){
 
   all_cve_ids <- c()
